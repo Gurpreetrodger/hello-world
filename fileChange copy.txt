@@ -1,0 +1,6 @@
+# hello-world
+first repo on github
+
+this need to be updated
+ 
+making some more change to check checkout --
